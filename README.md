@@ -17,18 +17,9 @@
 
 <a href="https://github.com/Jurredr/github-widgetbox">
      <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=mateusbruno1&data=followers,repositories,stars,commits&theme=aether" alt="GitHub WirdgetBox" />
-     <img width="100%" src="https://github-widgetbox.vercel.app/api/skills?languages=python,mysql,postgresql,ts,js,html,css&libraries=tensorflow&tools=redis,git,nodejs,yarn,npm&frameworks=react,express&software=linux,windows,vscode&includeNames=true&theme=aether" alt="GitHub WidgetBox" />
+     <img width="100%" src="https://github-widgetbox.vercel.app/api/skills?languages=python,mysql,postgresql,ts,js,html,css&libraries=tensorflow&tools=redis,git,nodejs,yarn,npm,vercel,nginx&frameworks=react,express&software=linux,windows,vscode&includeNames=true&theme=aether" alt="GitHub WidgetBox" />
 </a>
 
-----
-
-<h3 align="left">🏆 Trophies</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mateusbruno1&theme=discord&no-frame=true&margin-h=15&margin-w=15&column=5" alt="mateusbruno1" /></a> </p>
-
-----
-
-
-<br>
 
 
 <!--
