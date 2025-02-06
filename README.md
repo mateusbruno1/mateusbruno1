@@ -17,7 +17,7 @@
 
 <a href="https://github.com/Jurredr/github-widgetbox">
      <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=mateusbruno1&data=followers,repositories,stars,commits&theme=aether" alt="GitHub WirdgetBox" />
-     <img width="100%" src="https://github-widgetbox.vercel.app/api/skills?languages=python,mysql,postgresql,ts,js,html,css&tools=redis,git,nodejs,yarn,npm,vercel,nginx,Vue,React&frameworks=express&software=vscode&includeNames=true&theme=aether" alt="GitHub WidgetBox" />
+     <img width="100%" src="https://github-widgetbox.vercel.app/api/skills?languages=python,mysql,postgresql,ts,js,html,css&tools=redis,git,nodejs,yarn,npm,vercel,nginx,vue,react&frameworks=express&includeNames=true&theme=aether" alt="GitHub WidgetBox" />
 </a>
 
 
